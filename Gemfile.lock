@@ -62,7 +62,7 @@ PLATFORMS
 DEPENDENCIES
   database_cleaner
   pry
-  rake (= 12.3.1)
+  rake
   rspec
   sinatra-activerecord
   sqlite3
